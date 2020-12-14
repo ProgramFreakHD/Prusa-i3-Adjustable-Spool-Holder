@@ -6,45 +6,55 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
 <table>
   <tr>
     <th>Printer brand</th>
+    <th>Prusa</th>
+  </tr>
+  <tr>
+    <th>Printer</th>
     <th>I3 MK3S</th>
   </tr>
   <tr>
-    <th>Printer brand</th>
-    <th>I3 MK3S</th>
+    <th>Rafts</th>
+    <th>No</th>
   </tr>
   <tr>
-    <th>Printer brand</th>
-    <th>I3 MK3S</th>
+    <th>Supports</th>
+    <th>Yes</th>
   </tr>
   <tr>
-    <th>Printer brand</th>
-    <th>I3 MK3S</th>
+    <th>Resolution</th>
+    <th>Read the description</th>
+  </tr>
+  <tr>
+    <th>Infill</th>
+    <th>Read the description</th>
+  </tr>
+  <tr>
+   <th>Filament brand</th>
+   <th>Your choice</th>
+  </tr>
+   <tr>
+    <th>Supports</th>
+    <th>Yes</th>
+  </tr>
+  <tr>
+    <th>Supports</th>
+    <th>Yes</th>
+  </tr>
+  <tr>
+   <th>Supports</th>
+   <th>Yes</th>
   </tr>
 </table>
 
-Printer brand:
-Prusa
 
-Printer:
-I3 MK3S
 
-Rafts:
-No
 
-Supports:
-Yes
 
-Resolution:
-Read the description
 
-Infill:
-Read the description
 
-Filament_brand:
+
+Filament_color
 Your choice
 
-Filament_color:
-Your choice
-
-Filament_material:
+Filament_material
 Your choice
