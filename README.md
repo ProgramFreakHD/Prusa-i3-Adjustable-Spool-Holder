@@ -41,8 +41,11 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
     <th>Your choice</th>
   </tr>
 </table>
-### Notes
-
+## My Print Choice
+I decided to print mine in pla, mainly because it's cheaper and easier to print with pla and doesn't have a big risk of warpage if you print without a heat chamber. For my spool holder I decided to use black and white pla as it will match my Prusa printer, but you can choose what ever color you'd like.
+## Infill Config
+The infill config I chose for my spool holder was 20% infill. For some people they have difficulty choosing the settings so i took the liberty and made a excel chart with all the necessary info for you to print the spool holder. If you follow the settings I provided correctly, you should have no problem printing and assembling it later.
+(NOTE: DO NOT MESS WITH THE PARTS ORIENTATION WHEN YOU LOAD THE STL FILES INTO PRUSA CLICER!)
 <table>
     <tr>
     <th>Parts name from SLT folder</th>
@@ -60,7 +63,7 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
     <th>3</th>
     <th>Grid</th>
     <th>20%</th>
-    <th>None</th>1
+    <th>None</th>
   </tr>
     <tr>
     <th>Spool_Holder_Base_Bracket</th>
@@ -69,7 +72,7 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
     <th>3</th>
     <th>Grid</th>
     <th>20%</th>
-    <th>None</th>2
+    <th>None</th>
   </tr>
     <tr>
     <th>Spool_Holder_Base</th>
@@ -78,7 +81,7 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
     <th>2</th>
     <th>Grid</th>
     <th>20%</th>
-    <th>None</th>3
+    <th>None</th>
   </tr>
     <tr>
     <th>Spool_Holder_Base_End_Cap</th>
@@ -87,7 +90,7 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
     <th>3</th>
     <th>Grid</th>
     <th>20%</th>
-    <th>None</th>4
+    <th>None</th>
   </tr>
     <tr>
     <th>Spool_Holder_Filament_Guide</th>
@@ -96,7 +99,7 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
     <th>2</th>
     <th>Grid</th>
     <th>20%</th>
-    <th>None</th>5
+    <th>None</th>
   </tr>
     <tr>
     <th>Spool_Holder_Lead_Screw</th>
@@ -105,7 +108,7 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
     <th>3</th>
     <th>Grid</th>
     <th>20%</th>
-    <th>None</th>6
+    <th>None</th>
   </tr>
     <tr>
     <th>Spool_Holder_Left_Slider</th>
@@ -114,7 +117,7 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
     <th>3</th>
     <th>Grid</th>
     <th>20%</th>
-    <th>None</th>7
+    <th>None</th>
   </tr>
     <tr>
     <th>Spool_Holder_Right_Slider</th>
@@ -123,7 +126,7 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
     <th>3</th>
     <th>Grid</th>
     <th>20%</th>
-    <th>None</th>8
+    <th>None</th>
   </tr>
     <tr>
     <th>Spool_Holder_Rollers</th>
@@ -132,7 +135,7 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
     <th>3</th>
     <th>Grid</th>
     <th>100%</th>
-    <th>None</th>9
+    <th>None</th>
   </tr>
       <tr>
     <th>Spool_Holder_Thumbwheel</th>
@@ -141,6 +144,6 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
     <th>3</th>
     <th>Grid</th>
     <th>20%</th>
-    <th>None</th>9
+    <th>None</th>
   </tr>
 </table>
