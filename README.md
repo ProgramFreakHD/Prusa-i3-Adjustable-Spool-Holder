@@ -4,8 +4,8 @@ This is my shot at making a spool holder for Prusa I3 Family.
 
 ## Links
 
-[My Thingiverse Spool Holder](https://www.thingiverse.com/thing:4457941)\
-[Aero3D Thingiverse Spool Holder](https://www.thingiverse.com/thing:2362427)
+[My Spool Holder On Thingiverse](https://www.thingiverse.com/thing:4457941)\
+[Aero3D Spool Holder On Thingiverse](https://www.thingiverse.com/thing:2362427)
 
 ## Summary
 
