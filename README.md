@@ -54,8 +54,13 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
     <th>Brim</th>
   </tr>
   <tr>
-    <th>Printer</th>
-    <th>I3 MK3S</th>
+    <th>Spool_Holder_Base</th>
+    <th>0.30mm DRAFT</th>
+    <th>None</th>
+    <th>3</th>
+    <th>Grid</th>
+    <th>20%</th>
+    <th>None</th>
   </tr>
   <tr>
     <th>Rafts</th>
