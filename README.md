@@ -63,7 +63,7 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
     <th>None</th>
   </tr>
     <tr>
-    <th>Spool_Holder_Base</th>
+    <th>Spool_Holder_Base_Bracket</th>
     <th>0.30mm DRAFT</th>
     <th>None</th>
     <th>3</th>
