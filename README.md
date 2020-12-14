@@ -60,7 +60,7 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
     <th>3</th>
     <th>Grid</th>
     <th>20%</th>
-    <th>None</th>
+    <th>None</th>1
   </tr>
     <tr>
     <th>Spool_Holder_Base_Bracket</th>
@@ -69,69 +69,78 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
     <th>3</th>
     <th>Grid</th>
     <th>20%</th>
-    <th>None</th>
+    <th>None</th>2
   </tr>
     <tr>
     <th>Spool_Holder_Base</th>
+    <th>0.30mm DRAFT</th>
+    <th>Yes</th>
+    <th>2</th>
+    <th>Grid</th>
+    <th>20%</th>
+    <th>None</th>3
+  </tr>
+    <tr>
+    <th>Spool_Holder_Base_End_Cap</th>
+    <th>0.30mm DRAFT</th>
+    <th>Yes</th>
+    <th>3</th>
+    <th>Grid</th>
+    <th>20%</th>
+    <th>None</th>4
+  </tr>
+    <tr>
+    <th>Spool_Holder_Filament_Guide</th>
+    <th>0.30mm DRAFT</th>
+    <th>None</th>
+    <th>2</th>
+    <th>Grid</th>
+    <th>20%</th>
+    <th>None</th>5
+  </tr>
+    <tr>
+    <th>Spool_Holder_Lead_Screw</th>
     <th>0.30mm DRAFT</th>
     <th>None</th>
     <th>3</th>
     <th>Grid</th>
     <th>20%</th>
-    <th>None</th>
+    <th>None</th>6
   </tr>
     <tr>
-    <th>Spool_Holder_Base</th>
+    <th>Spool_Holder_Left_Slider</th>
     <th>0.30mm DRAFT</th>
     <th>None</th>
     <th>3</th>
     <th>Grid</th>
     <th>20%</th>
-    <th>None</th>
+    <th>None</th>7
   </tr>
     <tr>
-    <th>Spool_Holder_Base</th>
+    <th>Spool_Holder_Right_Slider</th>
     <th>0.30mm DRAFT</th>
     <th>None</th>
     <th>3</th>
     <th>Grid</th>
     <th>20%</th>
-    <th>None</th>
+    <th>None</th>8
   </tr>
     <tr>
-    <th>Spool_Holder_Base</th>
+    <th>Spool_Holder_Rollers</th>
+    <th>0.30mm DRAFT</th>
+    <th>None</th>
+    <th>3</th>
+    <th>Grid</th>
+    <th>100%</th>
+    <th>None</th>9
+  </tr>
+      <tr>
+    <th>Spool_Holder_Thumbwheel</th>
     <th>0.30mm DRAFT</th>
     <th>None</th>
     <th>3</th>
     <th>Grid</th>
     <th>20%</th>
-    <th>None</th>
-  </tr>
-    <tr>
-    <th>Spool_Holder_Base</th>
-    <th>0.30mm DRAFT</th>
-    <th>None</th>
-    <th>3</th>
-    <th>Grid</th>
-    <th>20%</th>
-    <th>None</th>
-  </tr>
-    <tr>
-    <th>Spool_Holder_Base</th>
-    <th>0.30mm DRAFT</th>
-    <th>None</th>
-    <th>3</th>
-    <th>Grid</th>
-    <th>20%</th>
-    <th>None</th>
-  </tr>
-    <tr>
-    <th>Spool_Holder_Base</th>
-    <th>0.30mm DRAFT</th>
-    <th>None</th>
-    <th>3</th>
-    <th>Grid</th>
-    <th>20%</th>
-    <th>None</th>
+    <th>None</th>9
   </tr>
 </table>
