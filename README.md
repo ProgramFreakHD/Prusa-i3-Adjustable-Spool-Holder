@@ -33,28 +33,11 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
    <th>Your choice</th>
   </tr>
    <tr>
-    <th>Supports</th>
-    <th>Yes</th>
+    <th>Filament color</th>
+    <th>Your choice</th>
   </tr>
   <tr>
-    <th>Supports</th>
-    <th>Yes</th>
-  </tr>
-  <tr>
-   <th>Supports</th>
-   <th>Yes</th>
+    <th>Filament material</th>
+    <th>Your choice</th>
   </tr>
 </table>
-
-
-
-
-
-
-
-
-Filament_color
-Your choice
-
-Filament_material
-Your choice
