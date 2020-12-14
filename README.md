@@ -5,7 +5,7 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
 ### Print Settings
 <table>
   <tr>
-    <th>OS</th>
+    <th>Printer brand</th>
     <th>Shortcut</th>
   </tr>
   <tr>
