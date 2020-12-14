@@ -6,7 +6,7 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
 <table>
   <tr>
     <th>Printer brand</th>
-    <th>Shortcut</th>
+    <th>I3 MK3S</th>
   </tr>
   <tr>
     <td>Printer</td>
