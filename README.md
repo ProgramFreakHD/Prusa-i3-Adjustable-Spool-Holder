@@ -9,16 +9,16 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
     <th>I3 MK3S</th>
   </tr>
   <tr>
-    <td>Printer</td>
-    <td>I3 MK3S</td>
+    <th>Printer brand</th>
+    <th>I3 MK3S</th>
   </tr>
   <tr>
-    <td>Linux</td>
-    <td><kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>H</kbd></td>
+    <th>Printer brand</th>
+    <th>I3 MK3S</th>
   </tr>
   <tr>
-    <td>Mac</td>
-    <td><kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>K</kbd></td>
+    <th>Printer brand</th>
+    <th>I3 MK3S</th>
   </tr>
 </table>
 
