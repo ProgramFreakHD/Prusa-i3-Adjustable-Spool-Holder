@@ -42,3 +42,18 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
   </tr>
 </table>
 ### Notes
+
+<table>
+  <tr>
+    <th>Printer brand</th>
+    <th>Prusa</th>
+  </tr>
+  <tr>
+    <th>Printer</th>
+    <th>I3 MK3S</th>
+  </tr>
+  <tr>
+    <th>Rafts</th>
+    <th>No</th>
+  </tr>
+</table>
