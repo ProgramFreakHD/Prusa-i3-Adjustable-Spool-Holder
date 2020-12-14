@@ -170,3 +170,8 @@ To assemble the spool holder you only need 7 machine screws that is M3x11.5mm he
 When you have your sliders printed, It should be a L and R on them, that indicates what side they goes on, take a look at the pictures I provide underneath to give you a better picture on how it should be assemble. The thumbwheel and base endcap has to be assembled last after the left and right slider is mounted on the spool holder base.
 
 (NOTE: SUPERGLUE OR ANY KIND OF BONDING COMPOUND ARE NOT ALLOWED DURING ASSEMBLY OF SPOOL HOLDER! ONLY TAPE IS ALLOWED IF NECESSARY TO GET A GOOD FIT BETWEEN THE AXEL & THUMBWHEEL!)
+
+## Overview and Background
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
