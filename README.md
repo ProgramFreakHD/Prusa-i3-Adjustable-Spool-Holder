@@ -165,4 +165,8 @@ The infill config I chose for my spool holder was 20% infill. For some people th
 
 ## Assembling Of Spool Holder
 
-awd
+To assemble the spool holder you only need 7 machine screws that is M3x11.5mm hex or phillips head, If you have trouble finding correct screws for you spool holder you can use the spare screws that comes with your prusa printer to assemble it, no nuts required, just use the screws to tap the threads inside the holes.
+
+When you have your sliders printed, It should be a L and R on them, that indicates what side they goes on, take a look at the pictures I provide underneath to give you a better picture on how it should be assemble. The thumbwheel and base endcap has to be assembled last after the left and right slider is mounted on the spool holder base.
+
+(NOTE: SUPERGLUE OR ANY KIND OF BONDING COMPOUND ARE NOT ALLOWED DURING ASSEMBLY OF SPOOL HOLDER! ONLY TAPE IS ALLOWED IF NECESSARY TO GET A GOOD FIT BETWEEN THE AXEL & THUMBWHEEL!)
