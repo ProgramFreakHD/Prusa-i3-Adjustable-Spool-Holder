@@ -7,8 +7,6 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
   <tr>
     <th>Printer brand</th>
     <th>Prusa</th>
-    <th>Prusa</th>
-    <th>Prusa</th>
   </tr>
   <tr>
     <th>Printer</th>
@@ -47,8 +45,13 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
 
 <table>
   <tr>
-    <th>Printer brand</th>
-    <th>Prusa</th>
+    <th>Parts name from SLT folder</th>
+    <th>Print settings</th>
+    <th>Support on build plate only</th>
+    <th>Vertical shells perimeters</th>
+    <th>Infill pattern</th>
+    <th>Infill</th>
+    <th>Brim</th>
   </tr>
   <tr>
     <th>Printer</th>
