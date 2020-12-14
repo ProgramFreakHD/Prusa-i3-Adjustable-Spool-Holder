@@ -9,8 +9,8 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
     <th>Shortcut</th>
   </tr>
   <tr>
-    <td>Windows</td>
-    <td><kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>K</kbd></td>
+    <td>Printer</td>
+    <td>I3 MK3S</td>
   </tr>
   <tr>
     <td>Linux</td>
@@ -21,6 +21,7 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
     <td><kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>K</kbd></td>
   </tr>
 </table>
+
 Printer brand:
 Prusa
 
