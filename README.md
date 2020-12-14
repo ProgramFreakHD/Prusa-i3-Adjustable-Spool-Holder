@@ -8,35 +8,35 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
     <th>Printer brand</th>
     <th>Prusa</th>
   </tr>
-  <tr>
+    <tr>
     <th>Printer</th>
     <th>I3 MK3S</th>
   </tr>
-  <tr>
+    <tr>
     <th>Rafts</th>
     <th>No</th>
   </tr>
-  <tr>
+    <tr>
     <th>Supports</th>
     <th>Yes</th>
   </tr>
-  <tr>
+    <tr>
     <th>Resolution</th>
     <th>Read the description</th>
   </tr>
-  <tr>
+    <tr>
     <th>Infill</th>
     <th>Read the description</th>
   </tr>
-  <tr>
+   <tr>
    <th>Filament brand</th>
    <th>Your choice</th>
   </tr>
-   <tr>
+    <tr>
     <th>Filament color</th>
     <th>Your choice</th>
   </tr>
-  <tr>
+    <tr>
     <th>Filament material</th>
     <th>Your choice</th>
   </tr>
@@ -44,7 +44,7 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
 ### Notes
 
 <table>
-  <tr>
+    <tr>
     <th>Parts name from SLT folder</th>
     <th>Print settings</th>
     <th>Support on build plate only</th>
@@ -53,7 +53,7 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
     <th>Infill</th>
     <th>Brim</th>
   </tr>
-  <tr>
+    <tr>
     <th>Spool_Holder_Base</th>
     <th>0.30mm DRAFT</th>
     <th>None</th>
@@ -62,8 +62,76 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
     <th>20%</th>
     <th>None</th>
   </tr>
-  <tr>
-    <th>Rafts</th>
-    <th>No</th>
+    <tr>
+    <th>Spool_Holder_Base</th>
+    <th>0.30mm DRAFT</th>
+    <th>None</th>
+    <th>3</th>
+    <th>Grid</th>
+    <th>20%</th>
+    <th>None</th>
+  </tr>
+    <tr>
+    <th>Spool_Holder_Base</th>
+    <th>0.30mm DRAFT</th>
+    <th>None</th>
+    <th>3</th>
+    <th>Grid</th>
+    <th>20%</th>
+    <th>None</th>
+  </tr>
+    <tr>
+    <th>Spool_Holder_Base</th>
+    <th>0.30mm DRAFT</th>
+    <th>None</th>
+    <th>3</th>
+    <th>Grid</th>
+    <th>20%</th>
+    <th>None</th>
+  </tr>
+    <tr>
+    <th>Spool_Holder_Base</th>
+    <th>0.30mm DRAFT</th>
+    <th>None</th>
+    <th>3</th>
+    <th>Grid</th>
+    <th>20%</th>
+    <th>None</th>
+  </tr>
+    <tr>
+    <th>Spool_Holder_Base</th>
+    <th>0.30mm DRAFT</th>
+    <th>None</th>
+    <th>3</th>
+    <th>Grid</th>
+    <th>20%</th>
+    <th>None</th>
+  </tr>
+    <tr>
+    <th>Spool_Holder_Base</th>
+    <th>0.30mm DRAFT</th>
+    <th>None</th>
+    <th>3</th>
+    <th>Grid</th>
+    <th>20%</th>
+    <th>None</th>
+  </tr>
+    <tr>
+    <th>Spool_Holder_Base</th>
+    <th>0.30mm DRAFT</th>
+    <th>None</th>
+    <th>3</th>
+    <th>Grid</th>
+    <th>20%</th>
+    <th>None</th>
+  </tr>
+    <tr>
+    <th>Spool_Holder_Base</th>
+    <th>0.30mm DRAFT</th>
+    <th>None</th>
+    <th>3</th>
+    <th>Grid</th>
+    <th>20%</th>
+    <th>None</th>
   </tr>
 </table>
