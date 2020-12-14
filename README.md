@@ -173,5 +173,5 @@ When you have your sliders printed, It should be a L and R on them, that indicat
 
 ## Overview and Background
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/blob/main/Pictures/Fusion360_EPcU3aeQii.png)
 
