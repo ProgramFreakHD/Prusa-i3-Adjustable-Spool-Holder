@@ -7,6 +7,8 @@ After looking at so many designs by many people on thingiverse, I couldn't find 
   <tr>
     <th>Printer brand</th>
     <th>Prusa</th>
+    <th>Prusa</th>
+    <th>Prusa</th>
   </tr>
   <tr>
     <th>Printer</th>
