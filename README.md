@@ -1,6 +1,10 @@
 # Adjustable spool holder for Prusa I3
 
-![alt text](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/blob/main/Pictures/Fusion360_EPcU3aeQii.png =250x250)
+## Overview
+
+![alt text](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/blob/main/Pictures/Fusion360_EPcU3aeQii.png)
+
+## Description
 
 This is my shot at making a spool holder for Prusa I3 Family.
 
