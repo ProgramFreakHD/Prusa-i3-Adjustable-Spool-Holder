@@ -15,7 +15,8 @@ This is my shot at making a spool holder for Prusa I3 Family.
 ## Step & STL Files
 
 [Step Files](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/tree/main/Spool%20Holder%20STEP's)\
-[STL Files](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/tree/main/Spool%20Holder%20STL's)
+[STL Files](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/tree/main/Spool%20Holder%20STL's)\
+[Fusion 360 CAD file](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/tree/main/Spool%20Holder%20Fusion%20360%20CAD)
 
 ## Summary
 
