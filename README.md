@@ -66,7 +66,7 @@ I decided to print mine in pla, mainly because it's cheaper and easier to print 
 The infill config I chose for my spool holder was 20% infill. For some people they have difficulty choosing the settings so i took the liberty and made a chart with all the necessary info for you to print the spool holder. If you follow the settings I provided correctly, you should have no problem printing and assembling it later.
 (NOTE: DO NOT MESS WITH THE PARTS ORIENTATION WHEN YOU LOAD THE STL FILES INTO PRUSA CLICER!)
 
-[Infill Config Chart](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/blob/main/Infill%20Config.md)
+Click [Here](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/blob/main/Infill%20Config.md) for the Infill config.
 
 ## Assembling Of Spool Holder
 
