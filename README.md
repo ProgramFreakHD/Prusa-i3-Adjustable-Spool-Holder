@@ -1,6 +1,6 @@
 # Adjustable spool holder for Prusa I3
 
-![Main](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/blob/master/Pictures/Fusion360_EPcU3aeQii.png)
+![alt text](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/blob/master/Pictures/Fusion360_EPcU3aeQii.png)
 
 ## Description
 
@@ -84,8 +84,8 @@ When you have your sliders printed, It should be a L and R on them, that indicat
 
 ## Overview and Background
 
-![alt text](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/blob/main/Pictures/Fusion360_EPcU3aeQii.png)
-![alt text](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/blob/main/Pictures/Fusion360_HI3vvN6EnH.png)
-![alt text](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/blob/main/Pictures/Fusion360_b3O1EtHUrA.png)
-![alt text](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/blob/main/Pictures/Fusion360_OKTGHkgsn5.png)
+![alt text](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/blob/master/Pictures/Fusion360_EPcU3aeQii.png)
+![alt text](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/blob/master/Pictures/Fusion360_HI3vvN6EnH.png)
+![alt text](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/blob/master/Pictures/Fusion360_OKTGHkgsn5.png)
+![alt text](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/blob/master/Pictures/Fusion360_b3O1EtHUrA.png)
 
