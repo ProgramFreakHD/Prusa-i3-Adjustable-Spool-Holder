@@ -11,6 +11,8 @@ This is my shot at making a spool holder for Prusa I3 Family.
 [My Spool Holder On Thingiverse](https://www.thingiverse.com/thing:4457941)\
 [Aero3D Spool Holder On Thingiverse](https://www.thingiverse.com/thing:2362427)\
 [Fusion360 3D Preview](https://gmail306847.autodesk360.com/g/shares/SH56a43QTfd62c1cd9681096767b71a6baea?viewState=NoIgbgDAdAjCA0IDeAdEAXAngBwKZoC40ARXAZwEsBzAOzXjQEMyzd1C0AOAE1wHYAnACYARjAC0fPkKHiALJwDGucYwDMnPpKUBWAGycxnAGacBaAL4gAukA)
+[Step Files](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/tree/main/Spool%20Holder%20STEP's)
+[STL Files](https://github.com/ProgramFreakHD/Prusa-I3-Adjustable-Spool-Holder/tree/main/Spool%20Holder%20STL's)
 
 ## Summary
 
