@@ -92,7 +92,7 @@
       <tr>
     <th>Spool_Holder_Thumbwheel</th>
     <th>0.30mm DRAFT</th>
-    <th>None</th>
+    <th>Yes</th>
     <th>3</th>
     <th>Grid</th>
     <th>20%</th>
